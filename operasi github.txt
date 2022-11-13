@@ -1,0 +1,14 @@
+cara pull pertama kali
+
+1. bikin folder
+2. buka git
+3. git init
+4. git pull nama_revositori
+
+cara push
+1. git status
+2. git add .
+3. git commit -m "pesan perubahan"
+3. git remote add origin nama_revositori
+4. git remote -v (untuk cek koneksi ke revositori yang di tuju)
+5. git push -u origin master
