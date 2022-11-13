@@ -1,5 +1,4 @@
 cara pull pertama kali
-
 1. bikin folder
 2. buka git
 3. git init
